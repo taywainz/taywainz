@@ -18,6 +18,7 @@
 
 ---
 ### 💼 Projects:
+- [Arrival Delay Project](https://github.com/taywainz/data_science_projects/blob/main/arrival_delay.md) - regression model that predicts aircraft arrival delay time
 - [Beginner ML Project](https://github.com/taywainz/beginner_ML_project) - introductory project using Scikit-Learn
 - More coming soon! 🌱
 
