@@ -11,7 +11,7 @@
 ---
 ### ⭐ About Me:
 - 🧠 Recent Master's graduate in Data Science
-- 💻 Currently a Support Analyst
+- 💻 Machine Learning Engineer
 - 🚀 Strengthening expertise in machine learning and natural language processing
 - ⚽ Enjoy playing sports and spending time outdoors
 - 🤝 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-wainz/)
